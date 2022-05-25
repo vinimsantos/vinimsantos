@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinimsantos
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning react native.
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning reactJS
 - 📫 How to reach me? send me an email marcosviniciosoares7@gmail.com
 
 <!---
