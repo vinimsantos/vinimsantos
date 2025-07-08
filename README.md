@@ -1,6 +1,9 @@
 👋 Hi, I’m @vinimsantos
+
 🎨 I’m interested in graphic design and front-end development
+
 🌱 I’m currently learning UI/UX design and improving my skills in HTML, CSS and JavaScript
+
 📫 How to reach me? Send me an email at marcosviniciosoares7@gmail.com
 
 <!---
