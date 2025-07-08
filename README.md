@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vinimsantos
-- 👀 I’m interested in back-end/web development
-- 🌱 I’m currently learning Python/Django
-- 📫 How to reach me? send me an email marcosviniciosoares7@gmail.com
+👋 Hi, I’m @vinimsantos
+🎨 I’m interested in graphic design and front-end development
+🌱 I’m currently learning UI/UX design and improving my skills in HTML, CSS and JavaScript
+📫 How to reach me? Send me an email at marcosviniciosoares7@gmail.com
 
 <!---
 vinimsantos/vinimsantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
